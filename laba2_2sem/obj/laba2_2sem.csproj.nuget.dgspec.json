@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/denisborovik/Projects/laba2_2sem/laba2_2sem/laba2_2sem.csproj": {}
+    "/Users/denisborovik/Documents/GitHub/Borovyk-Denus-LR2/laba2_2sem/laba2_2sem.csproj": {}
   },
   "projects": {
-    "/Users/denisborovik/Projects/laba2_2sem/laba2_2sem/laba2_2sem.csproj": {
+    "/Users/denisborovik/Documents/GitHub/Borovyk-Denus-LR2/laba2_2sem/laba2_2sem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/denisborovik/Projects/laba2_2sem/laba2_2sem/laba2_2sem.csproj",
+        "projectUniqueName": "/Users/denisborovik/Documents/GitHub/Borovyk-Denus-LR2/laba2_2sem/laba2_2sem.csproj",
         "projectName": "laba2_2sem",
-        "projectPath": "/Users/denisborovik/Projects/laba2_2sem/laba2_2sem/laba2_2sem.csproj",
+        "projectPath": "/Users/denisborovik/Documents/GitHub/Borovyk-Denus-LR2/laba2_2sem/laba2_2sem.csproj",
         "packagesPath": "/Users/denisborovik/.nuget/packages/",
-        "outputPath": "/Users/denisborovik/Projects/laba2_2sem/laba2_2sem/obj/",
+        "outputPath": "/Users/denisborovik/Documents/GitHub/Borovyk-Denus-LR2/laba2_2sem/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/denisborovik/.nuget/NuGet/NuGet.Config"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }
